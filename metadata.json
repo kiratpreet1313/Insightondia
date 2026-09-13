@@ -1,0 +1,6 @@
+{
+  "name": "Insightondia",
+  "description": "A premium, minimal, youth-led economics research think tank producing authoritative research, strategic data, and structural insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
